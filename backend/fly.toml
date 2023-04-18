@@ -1,13 +1,10 @@
-# fly.toml app configuration file generated for patient-wind-1012 on 2023-04-18T15:46:41+09:00
+# fly.toml app configuration file generated for delicate-water-5459 on 2023-04-18T16:56:58+09:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "patient-wind-1012"
+app = "delicate-water-5459"
 primary_region = "nrt"
-
-[env]
-  PORT = "8080"
 
 [http_service]
   internal_port = 8080
